@@ -1,0 +1,14 @@
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\bin\Debug\net8.0\newtalents.exe
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\bin\Debug\net8.0\newtalents.deps.json
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\bin\Debug\net8.0\newtalents.runtimeconfig.json
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\bin\Debug\net8.0\newtalents.dll
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\bin\Debug\net8.0\newtalents.pdb
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\obj\Debug\net8.0\newtalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\obj\Debug\net8.0\newtalents.AssemblyInfoInputs.cache
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\obj\Debug\net8.0\newtalents.AssemblyInfo.cs
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\obj\Debug\net8.0\newtalents.csproj.CoreCompileInputs.cache
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\obj\Debug\net8.0\newtalents.dll
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\obj\Debug\net8.0\refint\newtalents.dll
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\obj\Debug\net8.0\newtalents.pdb
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\obj\Debug\net8.0\newtalents.genruntimeconfig.cache
+C:\Users\Alicessr\Documents\DIO\trilha-net-testes-tdd\NewTalents\obj\Debug\net8.0\ref\newtalents.dll
